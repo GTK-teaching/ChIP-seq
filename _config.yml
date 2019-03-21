@@ -20,6 +20,7 @@ kind: "lesson"
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
 repository: <USERNAME>/<PROJECT>
+workshop_repo: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
 email: "dbsgtk@nus.edu.sg"
