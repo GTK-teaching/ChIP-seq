@@ -26,7 +26,7 @@ usage: macs2 [-h] [--version]                                                   
 ~~~
 {: .output}
 
-# Peak callking with MACS2
+# Peak calling with MACS2
 
 ## Predicting fragment size
 
